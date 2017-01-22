@@ -1,0 +1,29 @@
+.primaryColor {
+  color: #0d5970;
+}
+p {
+color: blue;
+border: solid black 2px;
+}
+
+.background-color {
+  color: #718287;
+}
+
+nav li {
+  color: blue;
+}
+
+.long {
+  padding: 50px;
+}
+
+.size{
+  max-width: 350px;
+  max-height: 350px;
+}
+
+.size2{
+  max-width: 500px;
+  max-height: 500px;
+}
